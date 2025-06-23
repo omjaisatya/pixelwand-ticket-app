@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Rock Concert 2025",
+      "date": "2025-07-15T19:00:00Z",
+      "location": "Madison Square Garden, NYC",
+      "price": 85,
+      "image": "https://picsum.photos/400/300?random=1",
+      "description": "An electrifying rock concert featuring top artists from around the world.",
+      "category": "Music"
+    },
+    {
+      "id": "2",
+      "title": "Tech Conference 2025",
+      "date": "2025-08-22T09:00:00Z",
+      "location": "Convention Center, San Francisco",
+      "price": 150,
+      "image": "https://picsum.photos/400/300?random=2",
+      "description": "Join industry leaders discussing the future of technology and innovation.",
+      "category": "Technology"
+    },
+    {
+      "id": "3",
+      "title": "Comedy Night",
+      "date": "2025-07-30T20:00:00Z",
+      "location": "Comedy Club, Chicago",
+      "price": 45,
+      "image": "https://picsum.photos/400/300?random=3",
+      "description": "Laugh out loud with the best comedians in the business.",
+      "category": "Comedy"
+    },
+    {
+      "id": "4",
+      "title": "Art Exhibition",
+      "date": "2025-09-10T10:00:00Z",
+      "location": "Museum of Modern Art, NYC",
+      "price": 25,
+      "image": "https://picsum.photos/400/300?random=4",
+      "description": "Explore contemporary art from emerging and established artists.",
+      "category": "Art"
+    }
+  ]
+}
