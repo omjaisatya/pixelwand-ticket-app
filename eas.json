@@ -11,7 +11,17 @@
     "preview": {
       "distribution": "internal"
     },
-    "production": {}
+    "production": {
+      "autoIncrement": true,
+      "android": {
+        "resourceClass": "medium",
+        "image": "latest"
+      },
+      "ios": {
+        "resourceClass": "medium",
+        "image": "latest"
+      }
+    }
   },
   "submit": {
     "production": {}
